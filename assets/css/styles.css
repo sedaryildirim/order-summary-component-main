@@ -55,9 +55,15 @@ h1 {
 }
 
 p {
+  margin-bottom: 20px;
+}
+
+.price {
   color: #777;
   line-height: 1.6;
   margin-bottom: 20px;
+  font-size: 12px;
+  text-align: left;
 }
 
 /* Plan details */
@@ -77,6 +83,7 @@ p {
 
 .plan-details h2 {
   font-size: 16px;
+  text-align: left;
 }
 
 .change-plan {
